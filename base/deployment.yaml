@@ -15,7 +15,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: rayleshh/argocd-deploy
+      - image: rayleshh/argocd-deploy:6478717616073233498f436e5eee865454b3898f
         name: demo
         ports:
         - containerPort: 8080
