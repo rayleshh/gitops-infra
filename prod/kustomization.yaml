@@ -9,4 +9,4 @@ patchesStrategicMerge:
 
 images:
 - name: rayleshh/argocd-app
-  newTag: 0f63885939e1d1f6b198a4538f9792542775c2ea
+  newTag: afdecd59a17f0ce252c3933f6424b0291ecbefa7
